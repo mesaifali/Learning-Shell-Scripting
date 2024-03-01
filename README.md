@@ -14,10 +14,10 @@
 - Reading input from the user with read  &#x2705;
 - Arithmetic and Logical Operators &#x2705;
 - Making decisions with if, elif, else conditionals &#x2705;
-- Looping through code with for and while loops &#x274C;
+- Looping through code with for and while loops &#x2705;
 - Working with strings and string manipulation &#x274C;
 - Debugging scripts by printing variables and messages &#x274C;
-- Defining reusable functions &#x274C;
+- Defining reusable functions &#x2705;
 - Passing arguments and options to scripts &#x274C;
 - Reading and writing to files &#x274C;
 
