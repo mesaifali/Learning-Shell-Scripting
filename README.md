@@ -16,7 +16,7 @@
 - Making decisions with if, elif, else conditionals &#x2705;
 - Looping through code with for and while loops &#x2705;
 - Working with strings and string manipulation &#x274C;
-- Debugging scripts by printing variables and messages &#x274C;
+- Debugging scripts &#x2705;
 - Defining reusable functions &#x2705;
 - Passing arguments and options to scripts &#x274C;
 - Reading and writing to files &#x274C;
